@@ -1,0 +1,6 @@
+C:\Users\Justin\source\repos\Assignment1\AverageOfIntegers\bin\Debug\AverageOfIntegers.exe.config
+C:\Users\Justin\source\repos\Assignment1\AverageOfIntegers\bin\Debug\AverageOfIntegers.exe
+C:\Users\Justin\source\repos\Assignment1\AverageOfIntegers\bin\Debug\AverageOfIntegers.pdb
+C:\Users\Justin\source\repos\Assignment1\AverageOfIntegers\obj\Debug\AverageOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Assignment1\AverageOfIntegers\obj\Debug\AverageOfIntegers.exe
+C:\Users\Justin\source\repos\Assignment1\AverageOfIntegers\obj\Debug\AverageOfIntegers.pdb

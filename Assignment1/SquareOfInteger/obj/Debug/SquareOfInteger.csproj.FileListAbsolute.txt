@@ -1,0 +1,6 @@
+C:\Users\Justin\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Justin\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Justin\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Justin\source\repos\Assignment1\Assignment1\obj\Debug\SquareOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Justin\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
