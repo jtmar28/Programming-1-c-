@@ -1,0 +1,6 @@
+C:\Users\Justin\source\repos\Assignment2\FormattedTelephoneNumber\bin\Debug\FormattedTelephoneNumber.exe.config
+C:\Users\Justin\source\repos\Assignment2\FormattedTelephoneNumber\bin\Debug\FormattedTelephoneNumber.exe
+C:\Users\Justin\source\repos\Assignment2\FormattedTelephoneNumber\bin\Debug\FormattedTelephoneNumber.pdb
+C:\Users\Justin\source\repos\Assignment2\FormattedTelephoneNumber\obj\Debug\FormattedTelephoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Assignment2\FormattedTelephoneNumber\obj\Debug\FormattedTelephoneNumber.exe
+C:\Users\Justin\source\repos\Assignment2\FormattedTelephoneNumber\obj\Debug\FormattedTelephoneNumber.pdb

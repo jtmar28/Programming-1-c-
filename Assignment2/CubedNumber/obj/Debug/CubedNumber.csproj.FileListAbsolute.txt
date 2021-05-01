@@ -1,0 +1,7 @@
+C:\Users\Justin\source\repos\Assignment2\CubedNumber\bin\Debug\CubedNumber.exe.config
+C:\Users\Justin\source\repos\Assignment2\CubedNumber\bin\Debug\CubedNumber.exe
+C:\Users\Justin\source\repos\Assignment2\CubedNumber\bin\Debug\CubedNumber.pdb
+C:\Users\Justin\source\repos\Assignment2\CubedNumber\obj\Debug\CubedNumber.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\Assignment2\CubedNumber\obj\Debug\CubedNumber.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Assignment2\CubedNumber\obj\Debug\CubedNumber.exe
+C:\Users\Justin\source\repos\Assignment2\CubedNumber\obj\Debug\CubedNumber.pdb
