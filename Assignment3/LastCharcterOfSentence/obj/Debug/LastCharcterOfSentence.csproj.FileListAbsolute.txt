@@ -1,0 +1,7 @@
+C:\Users\Justin\source\repos\Assignment3\LastCharcterOfSentence\bin\Debug\LastCharcterOfSentence.exe.config
+C:\Users\Justin\source\repos\Assignment3\LastCharcterOfSentence\bin\Debug\LastCharcterOfSentence.exe
+C:\Users\Justin\source\repos\Assignment3\LastCharcterOfSentence\bin\Debug\LastCharcterOfSentence.pdb
+C:\Users\Justin\source\repos\Assignment3\LastCharcterOfSentence\obj\Debug\LastCharcterOfSentence.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\Assignment3\LastCharcterOfSentence\obj\Debug\LastCharcterOfSentence.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Assignment3\LastCharcterOfSentence\obj\Debug\LastCharcterOfSentence.exe
+C:\Users\Justin\source\repos\Assignment3\LastCharcterOfSentence\obj\Debug\LastCharcterOfSentence.pdb
